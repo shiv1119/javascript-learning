@@ -1,0 +1,1 @@
+console.log("Page successfully loaded js4debug.js");
